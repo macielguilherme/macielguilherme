@@ -112,8 +112,10 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 ## Estatisticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=macielguilherme&show_icons=true&theme=github_light&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielguilherme&layout=compact&theme=github_light&hide_border=true"/>
+  <a href="https://github.com/macielguilherme">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=macielguilherme&show_icons=true&theme=github_light&hide_border=true&count_private=true&v=1"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielguilherme&layout=compact&theme=github_light&hide_border=true&v=1"/>
+  </a>
 </div>
 
 ---
@@ -121,7 +123,9 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 ## Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielguilherme&theme=github-light&hide_border=true" />
+  <a href="https://github.com/macielguilherme">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielguilherme&theme=github-light&hide_border=true&v=1" />
+  </a>
 </div>
 
 ---
@@ -129,7 +133,9 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 ## Trofeus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=macielguilherme&theme=flat&no-frame=true&row=2&column=4" />
+  <a href="https://github.com/macielguilherme">
+    <img src="https://github-profile-trophy.vercel.app/?username=macielguilherme&theme=flat&no-frame=true&row=2&column=4&v=1" />
+  </a>
 </div>
 
 ---
