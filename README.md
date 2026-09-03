@@ -53,7 +53,7 @@ Acredito que a tecnologia tem o poder de transformar ideias em experiencias incr
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg">
- 
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MUI-Dark.svg">
 </div>
 
 <br>
@@ -109,7 +109,32 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 
 ---
 
-## Contribuições
+## Estatisticas
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=macielguilherme&show_icons=true&theme=github_light&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielguilherme&layout=compact&theme=github_light&hide_border=true"/>
+</div>
+
+---
+
+## Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielguilherme&theme=github-light&hide_border=true" />
+</div>
+
+---
+
+## Trofeus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=macielguilherme&theme=flat&no-frame=true&row=2&column=4" />
+</div>
+
+---
+
+## Contribuicoes
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macielguilherme/macielguilherme/output/github-snake-dark.svg" />
@@ -159,4 +184,10 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 <div align="center">
   <img src="https://img.shields.io/badge/Made_with-Code-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open_to-Collaborations-4CAF50?style=flat-square" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
