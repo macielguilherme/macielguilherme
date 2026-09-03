@@ -109,12 +109,6 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 
 ---
 
-## Contribuições
-
-<img src="https://raw.githubusercontent.com/macielguilherme/macielguilherme/main/dist/github-snake.svg" alt="GitHub Contributions" />
-
----
-
 ## Vamos nos conectar!
 
 <div align="center">
