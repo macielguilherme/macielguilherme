@@ -109,27 +109,11 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 
 ---
 
-## Estatisticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macielguilherme&show_icons=true&theme=github_light&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielguilherme&layout=compact&theme=github_light&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielguilherme&theme=github-light&hide_border=true" />
-</div>
-
----
-
 ## Vamos nos conectar!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ribeirofarias/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:guilhermefarias@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/macielguilherme">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
