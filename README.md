@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="35%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+  <img width="35%" src="https://raw.githubusercontent.com/hak553/photoToProfile/main/Programming%20Computer.svg" alt="Developer Laptop">
 </div>
 
 <br>
@@ -9,12 +9,12 @@
     <b>Guilherme Farias Maciel Ribeiro</b>
   </h1>
   <samp>
-    <b>Engenheiro de Software em formacao | Auxiliar de TI | Criador de experiencias digitais</b>
+    <b>Engenheiro de Software em formação | Auxiliar de TI | Criador de experiências digitais</b>
   </samp>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0066CC&width=900&size=22&center=true&lines=Transformando+ideias+em+produtos+digitais;Sempre+aprendendo.+Sempre+construindo.;Apaixonado+por+UX%2FUI+e+front-end;3%C2%BA+modulo+de+Engenharia+de+Software+%7C+UCB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0066CC&width=900&size=22&center=true&lines=Transformando+ideias+em+produtos+digitais;Sempre+aprendendo.+Sempre+construindo.;Apaixonado+por+UX%2FUI+e+front-end;3%C2%BA+m%C3%B3dulo+de+Engenharia+de+Software+%7C+UCB" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -31,13 +31,13 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software na Universidade Catolica de Brasilia (UCB) e atuo como Auxiliar de TI, onde trabalho com produtos e solucoes digitais.
+Sou estudante de Engenharia de Software na Universidade Católica de Brasília (UCB) e atuo como Auxiliar de TI, onde trabalho com produtos e soluções digitais.
 
-Acredito que a tecnologia tem o poder de transformar ideias em experiencias incriveis. Meu foco esta em criar interfaces funcionais, acessiveis e visualmente agradaveis - unindo design, codigo e experiencia do usuario.
+Acredito que a tecnologia tem o poder de transformar ideias em experiências incríveis. Meu foco está em criar interfaces funcionais, acessíveis e visualmente agradáveis - unindo design, código e experiência do usuário.
 
-**Localizacao:** Brasilia, DF  
-**Formacao:** 3 modulo - Engenharia de Software  
-**Atuacao:** Auxiliar de TI
+**Localização:** Brasília, DF  
+**Formação:** 3º módulo - Engenharia de Software  
+**Atuação:** Auxiliar de TI
 
 ---
 
@@ -81,7 +81,7 @@ Acredito que a tecnologia tem o poder de transformar ideias em experiencias incr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## Proximos objetivos
+## Próximos objetivos
 
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
@@ -94,9 +94,9 @@ Acredito que a tecnologia tem o poder de transformar ideias em experiencias incr
 ## Projetos em destaque
 
 ### e-Arq Brasil
-Transformando requisitos arquivisticos em experiencia digital
+Transformando requisitos arquivísticos em experiência digital
 
-Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados, visuais e interativos.
+Uma aplicação web criada para tornar requisitos de arquivística mais organizados, visuais e interativos.
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -104,17 +104,17 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </div>
 
-**Acessar projeto:** http://macielguilherme.github.io/e-Arc  
-**Ver codigo:** https://github.com/macielguilherme/e-Arq
+**Acessar projeto:** https://macielguilherme.github.io/e-Arq/  
+**Ver código:** https://github.com/macielguilherme/e-Arq
 
 ---
 
-## Estatisticas
+## Estatísticas
 
 <div align="center">
   <a href="https://github.com/macielguilherme">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=macielguilherme&show_icons=true&theme=github_light&hide_border=true&count_private=true&v=1"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielguilherme&layout=compact&theme=github_light&hide_border=true&v=1"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=macielguilherme&show_icons=true&theme=github_light&hide_border=true" alt="GitHub Stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielguilherme&layout=compact&theme=github_light&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
@@ -124,23 +124,23 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 
 <div align="center">
   <a href="https://github.com/macielguilherme">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielguilherme&theme=github-light&hide_border=true&v=1" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielguilherme&theme=github-light&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </div>
 
 ---
 
-## Trofeus
+## Troféus
 
 <div align="center">
   <a href="https://github.com/macielguilherme">
-    <img src="https://github-profile-trophy.vercel.app/?username=macielguilherme&theme=flat&no-frame=true&row=2&column=4&v=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=macielguilherme&theme=flat&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
   </a>
 </div>
 
 ---
 
-## Contribuicoes
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macielguilherme/macielguilherme/output/github-snake-dark.svg" />
@@ -165,7 +165,7 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
 
 <div align="center">
   <samp>
-    <b>Links uteis:</b><br>
+    <b>Links úteis:</b><br>
     <a href="https://github.com/macielguilherme/e-Arq">e-Arq Brasil</a> •
     <a href="https://www.linkedin.com/in/ribeirofarias/">LinkedIn</a> •
     <a href="https://github.com/macielguilherme">GitHub</a>
@@ -181,7 +181,7 @@ Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados
     </i>
     <br>
     <br>
-    <b>Obrigado pela visita. Vamos construir algo incrivel juntos.</b>
+    <b>Obrigado pela visita. Vamos construir algo incrível juntos.</b>
   </samp>
 </div>
 
