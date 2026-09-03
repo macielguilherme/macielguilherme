@@ -6,42 +6,42 @@
 
 <div align="center">
   <h1>
-    <b>👋 Guilherme Farias Maciel Ribeiro</b>
+    <b>Guilherme Farias Maciel Ribeiro</b>
   </h1>
   <samp>
-    <b>Engenheiro de Software em formação | Auxiliar de TI | Criador de experiências digitais</b>
+    <b>Engenheiro de Software em formacao | Auxiliar de TI | Criador de experiencias digitais</b>
   </samp>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0066CC&width=900&size=22&center=true&lines=Transformando+ideias+em+produtos+digitais;Sempre+aprendendo.+Sempre+construindo.;Apaixonado+por+UX%2FUI+e+front-end;3%C2%BA+m%C3%B3dulo+de+Engenharia+de+Software+%7C+UCB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0066CC&width=900&size=22&center=true&lines=Transformando+ideias+em+produtos+digitais;Sempre+aprendendo.+Sempre+construindo.;Apaixonado+por+UX%2FUI+e+front-end;3%C2%BA+modulo+de+Engenharia+de+Software+%7C+UCB" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=macielguilherme&style=flat-square&color=0066CC" />
-  <img src="https://img.shields.io/badge/Brasília-DF-green?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/18_years_old-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Brasilia-DF-green?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/18_years-4CAF50?style=flat-square" />
 </div>
 
 <br>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou estudante de **Engenharia de Software** na **Universidade Católica de Brasília (UCB)** e atuo como **Auxiliar de TI**, onde trabalho com produtos e soluções digitais.
+Sou estudante de Engenharia de Software na Universidade Catolica de Brasilia (UCB) e atuo como Auxiliar de TI, onde trabalho com produtos e solucoes digitais.
 
-Acredito que a tecnologia tem o poder de transformar ideias em experiências incríveis. Meu foco está em criar interfaces funcionais, acessíveis e visualmente agradáveis — unindo **design**, **código** e **experiência do usuário**.
+Acredito que a tecnologia tem o poder de transformar ideias em experiencias incriveis. Meu foco esta em criar interfaces funcionais, acessiveis e visualmente agradaveis - unindo design, codigo e experiencia do usuario.
 
-📍 **Brasília, DF**  
-🎓 **3º módulo - Engenharia de Software**  
-💼 **Auxiliar de TI**
+**Localizacao:** Brasilia, DF  
+**Formacao:** 3 modulo - Engenharia de Software  
+**Atuacao:** Auxiliar de TI
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center" style="display: inline_block"><br>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
@@ -72,7 +72,7 @@ Acredito que a tecnologia tem o poder de transformar ideias em experiências inc
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -81,7 +81,7 @@ Acredito que a tecnologia tem o poder de transformar ideias em experiências inc
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## 🎯 Próximos objetivos
+## Proximos objetivos
 
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
@@ -91,12 +91,12 @@ Acredito que a tecnologia tem o poder de transformar ideias em experiências inc
 
 ---
 
-## 🌟 Projetos em destaque
+## Projetos em destaque
 
-### [📄 e-Arq Brasil](https://github.com/macielguilherme/e-Arq)
-**Transformando requisitos arquivísticos em experiência digital**
+### e-Arq Brasil
+Transformando requisitos arquivisticos em experiencia digital
 
-Uma aplicação web criada para tornar requisitos de arquivística mais organizados, visuais e interativos.
+Uma aplicacao web criada para tornar requisitos de arquivistica mais organizados, visuais e interativos.
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -104,11 +104,12 @@ Uma aplicação web criada para tornar requisitos de arquivística mais organiza
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </div>
 
-🔗 **[Acessar projeto](http://macielguilherme.github.io/e-Arc)** | 📂 **[Ver código](https://github.com/macielguilherme/e-Arq)**
+**Acessar projeto:** http://macielguilherme.github.io/e-Arc  
+**Ver codigo:** https://github.com/macielguilherme/e-Arq
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatisticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macielguilherme&show_icons=true&theme=github_light&hide_border=true&count_private=true"/>
@@ -121,7 +122,7 @@ Uma aplicação web criada para tornar requisitos de arquivística mais organiza
 
 ---
 
-## 📫 Vamos nos conectar!
+## Vamos nos conectar!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ribeirofarias/">
@@ -139,7 +140,7 @@ Uma aplicação web criada para tornar requisitos de arquivística mais organiza
 
 <div align="center">
   <samp>
-    <b>📌 Links úteis:</b><br>
+    <b>Links uteis:</b><br>
     <a href="https://github.com/macielguilherme/e-Arq">e-Arq Brasil</a> •
     <a href="https://www.linkedin.com/in/ribeirofarias/">LinkedIn</a> •
     <a href="https://github.com/macielguilherme">GitHub</a>
@@ -155,13 +156,13 @@ Uma aplicação web criada para tornar requisitos de arquivística mais organiza
     </i>
     <br>
     <br>
-    <b>⭐ Obrigado pela visita! Vamos construir algo incrível juntos?</b>
+    <b>Obrigado pela visita. Vamos construir algo incrivel juntos.</b>
   </samp>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made_with-Code-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to-Collaborations-4CAF50?style=flat-square" />
 </div>
